@@ -21,7 +21,7 @@ body h1,h2,h3,h4,h5,h6{
 }
 /*-- header --*/
 #home {
-    background: url(../images/header-bg.jpg) no-repeat center top;
+    background: url(../images/bg.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -473,7 +473,7 @@ span.border.one:after {
 .about-right{
 	    float: left;
 	padding:0;
-	background:url(../images/about-pic.jpg) no-repeat 0px 0px;
+	background:url(../images/fine.jpg) no-repeat 0px 0px;
 	min-height:580px;
 	background-size: cover;
    -o-background-size: cover;
