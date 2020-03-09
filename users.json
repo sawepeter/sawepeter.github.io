@@ -1,0 +1,49 @@
+{
+  "Result": "OK",
+  "Data": "00",
+  "collegeName": "Alupe University College",
+  "collegeId": "11",
+  "collegeKey": "11",
+  "campusName": "Campus2019",
+  "campusId": "178",
+  "officers": [
+    {
+      "userId": "2812",
+      "userPin": "8341",
+      "lastName": "Mdamba",
+      "properties": "0"
+    },
+    {
+      "userId": "1212",
+      "userPin": "1313",
+      "lastName": "Admin",
+      "properties": "1"
+    }
+  ],
+  "serviceData": [
+    {
+      "id": "2",
+      "name": "Meals",
+      "walletId": "70",
+      "properties": "55",
+      "dailySpendingAmountLimit": "10000",
+      "dailySpendingTxCountLimit": "100",
+      "users": [
+        "2812"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Accommodation",
+      "walletId": "69",
+      "properties": "55",
+      "dailySpendingAmountLimit": "1000",
+      "dailySpendingTxCountLimit": "100",
+      "users": [
+        "2812"
+      ]
+    }
+  ],
+  "dtTime": "2020-03-03 12:30:14",
+  "Component": "1"
+}
